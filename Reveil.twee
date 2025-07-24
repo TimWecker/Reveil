@@ -1,0 +1,1055 @@
+:: StoryTitle
+Réveil
+
+
+:: StoryData
+{
+  "ifid": "13ae2229-a33b-4158-83e4-dea9c6b55644",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Installation",
+  "tag-colors": {
+    "cache": "purple",
+    "black": "purple",
+    "sombre": "purple",
+    "clair": "yellow",
+    "Fin": "red"
+  },
+  "zoom": 0.3
+}
+
+
+:: Abandonné C [Fin] {"position":"1625,1525","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.5481,#000000,1,#474646)))Le stress monte en vous, faisant accélérer vos rouages ainsi que vos aiguilles. 
+Après avoir déballé tous ses cartons, Wecker s’approche de vous. Son regard oscille entre vous et le réveil argenté à vos côtés. Il pousse un soupir, puis vous saisit, laissant l’autre sur la table de chevet, et vous place au fond d’une armoire dont il referme la porte.
+
+Vous attendez, longtemps, en espérant que votre propriétaire ne vous ait pas oublié. Mais il ne reviendra jamais vous chercher. Dans le silence, vos piles s’épuisent lentement et le néant finit par vous engloutir.
+
+
+
+:: Abandonné S [Fin] {"position":"1750,1525","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.5481,#000000,1,#474646)))Vous sentez la panique vous envahir. Vous vous mettez à trembler et un vacarme assourdissant retentit dans la pièce. Le pauvre homme sursaute, puis vous lance un regard noir. Il quitte la pièce, vous laissant hurler dans le vide, avant de revenir avec un tournevis à la main. Il vous saisit sans ménagement, vous retourne et ouvre votre boîtier. Vous entrevoyez l’autre réveil, toujours posé sur la table et parfaitement sage, avant que vos forces ne vous quittent brusquement. Votre vision se trouble avant de s’obscurcir et le froid vous emporte.
+
+
+:: Ange gardien [Fin] {"position":"1300,1800","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#E3BA00,0.6593,#474646,1,#474646)))Vous canalisez votre énergie dans vos aiguilles et les faites subitement accélérer.
+L’homme écarquille les yeux. Quelques secondes passent avant qu’il ne soit capable de parler.
+« Ah ! C’est pas vrai ! Tu es… conscient… Tu es un réveil conscient ! Oh, j’ai une idée. Bouge ton aiguille des minutes sur 1 pour oui et 2 pour non. Ça te va ? » 
+Vous glissez votre aiguille sur le 1.
+Tout excité, l’homme vous pose différentes questions auxquelles vous répondez avec plaisir. Mais peu à peu, vous finissez par vous fatiguer. Pour qu’il le comprenne, vous baissez vos deux aiguilles sur 6 dans un dernier effort. 
+« Ah, je vois. Finit pour aujourd’hui ? Bon, moi je vais vite à la salle de bain pour me doucher. À plus !»
+Il vous repose avec une grande délicatesse sur la table de chevet et sort de la chambre en vous adressant un petit signe de la main. 
+
+Les jours, les semaines et les années passent. 
+Vous mettez en place ensemble un système de communication de plus en plus élaboré. Avec le temps, les échanges deviennent fluides, presque naturels. Vous apprenez à vous connaître, à discuter, à jouer. Il vous présente même à ses proches, leur montrant vos capacités. Vous vivez une vie heureuse à ses côtés. 
+À sa mort, sa fille prend le relais et partage sa vie avec vous, comme il le faisait. Vous n’êtes plus seulement un réveil, vous êtes désormais l’entité protectrice de la famille. 
+
+//Vous avez atteint l’immortalité. //À condition que quelqu’un change régulièrement vos piles, bien sûr.
+
+
+
+:: Ange gardien douteux [Fin] {"position":"2400,1800","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#E3BA00,0.6593,#474646,1,#474646)))Vous canalisez votre énergie dans vos aiguilles et les faites subitement accélérer.
+L’homme écarquille les yeux. Quelques secondes s’écoulent avant qu’il ne trouve la force de parler.
+« C’est pas possible… »
+Les mains tremblantes, il vous repose sur la table de chevet et se met, nerveusement, à faire les cent pas dans la chambre.
+«Ok… j’ai une idée. Bouge ton aiguille des minutes sur 1 pour oui et 2 pour non. Ça te va ? » 
+Vous glissez votre aiguille sur le 1. Il se fige.
+« Tu es… conscient… Tu es vraiment un réveil conscient ! »
+Malgré le choc, l’homme s’assied et vous pose différentes questions auxquelles vous répondez avec plaisir. Mais peu à peu, vous finissez par vous fatiguer. Pour qu’il le comprenne, vous baissez vos deux aiguilles sur 6 dans un dernier effort. 
+« Ah, je vois… Finit pour aujourd’hui ? Bon, moi je vais à la salle de bain pour me doucher, alors. À plus !»
+Il se retourne et sort de la chambre en vous adressant un petit signe de la main. 
+
+Les jours, les semaines et les années passent. 
+Vous mettez en place ensemble un système de communication de plus en plus élaboré. Avec le temps, les échanges deviennent fluides, presque naturels. Vous apprenez à vous connaître, à discuter, à jouer. Il vous présente même à ses proches, leur montrant vos capacités. Vous vivez une vie heureuse à ses côtés. 
+À sa mort, sa fille prend le relais et partage sa vie avec vous, comme il le faisait. Vous n’êtes plus seulement un réveil, vous êtes désormais l’entité protectrice de la famille. 
+
+//Vous avez atteint l’immortalité.// À condition que quelqu’un change régulièrement vos piles, bien sûr.
+
+
+
+:: Attendre la nuit {"position":"1800,300","size":"100,100"}
+Les heures passent lentement.
+
+Alors que le soleil se couche, vous observez les ombres se déplacer dans la chambre jusqu'à ce qu'elles engloutissent entièrement la pièce.
+
+
+[[Ne rien faire->Réveil enclenché]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Changer l'heure</span>->Changer l'heure R2C1]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Sonner</span>->Sonner R2 piles]]
+
+
+:: Besoin d'attention C1S1 [clair] {"position":"2850,400","size":"100,100"}
+Il ne peut tout de même pas envisager de vous laisser ici sans compagnie, vous vous ennuieriez à mourir! Un frisson vous parcourt. Votre corps entier se met à trembler violemment et vous émettez un vacarme assourdissant.
+
+L'homme entre dans la chambre au pas de course.
+Il vous saisit violemment et appuie sur un bouton dans votre dos, vous ramenant aussitôt au silence. 
+
+Il vous fixe quelques instants puis vous examine, vous retournant dans tous les sens, avant de vous reposer sur la table de chevet sans avoir trouvé le moindre défaut à votre anatomie.
+
+Il vous regarde encore un moment en se rongeant les ongles et finit par se retourner pour s’installer devant son ordinateur et commence à taper sur son clavier. Puis, il ouvre un tiroir, en sort des piles et un tournevis, et s’approche de vous.
+
+Il vous ouvre le dos. Pendant un instant, tout devient noir. Vous reprenez conscience alors que l’homme vous abandonne sur la table de chevet avant de disparaître dans le couloir.
+
+Les heures passent lentement.
+
+Alors que le soleil se couche, vous observez les ombres se déplacer dans la chambre jusqu'à ce qu'elles engloutissent entièrement la pièce.
+
+[[Ne rien faire->Réveil enclenché R2S1]]
+
+[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Changer l'heure</span>->Changer l'heure R1S1]]
+
+[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Sonner</span>->Sonner R1S2]]
+
+
+:: Brûlé par le temps C2 [Fin] {"position":"3900,650","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.5198,#212529,1,#677179)))La porte s'ouvre et l'homme, en T-shirt et caleçon, allume la lumière. Il s’avance vers le lit, secoue la couverture et vous regarde. Un peu trop longtemps à votre goût. 
+
+Il vous empoigne et sort de la chambre pour aller dans la cuisine. Son téléphone est en train de charger, posé sur le comptoir. L’homme allume l’écran qui affiche 22:41 alors que vos aiguilles indiquent 01:30.
+
+Il vous regarde avec déception, ouvre un placard et en sort un carton familier. 
+Après un dernier coup d'œil, il vous dépose dans la boîte et la referme, vous laissant à nouveau sans compagnie dans le noir.
+
+
+
+Mais haut les cœurs! Même sans lumière, vous pouvez toujours vous dégourdir les aiguilles à volonté!
+
+
+:: Changer l'heure [clair] {"position":"2800,250","size":"100,100"}
+Vous vous concentrez, réunissez toutes vos forces et vous faites glisser vos aiguilles sur leur cadran.
+
+L'homme fronce les sourcils et vous secoue. Il ne semble pas impressionné par votre exploit.
+
+Il vous retourne dans tous les sens puis réajuste l'heure en soupirant avant de faire quelques pas et de vous poser à côté d'une lampe sur une sobre table de chevet blanche. Puis, il prend le carton vide et sort de la chambre.
+
+D'ici, vous avez une bonne vue d'ensemble de la pièce. Vous vous trouvez dans un coin, entre le lit et un mur percé d'une fenêtre et d'une porte-fenêtre donnant sur un petit balcon. Un miroir et une bibliothèque séparent le lit de la porte de la chambre qui fait face aux fenêtres. Un fauteuil et un bureau occupent le coin opposé au vôtre. En face du lit, à côté du bureau, une armoire est encastrée dans le mur.
+
+
+[[Ne rien faire->Ne rien faire C1 attendre nuit]]
+
+[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Changer l'heure</span>->Dieu du temps C2]]
+
+[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Sonner</span>->Besoin d'attention C1S1]]
+
+
+:: Changer l'heure C2S1 [clair] {"position":"3175,650","size":"100,100"}
+C'est insoutenable. Vous ne pouvez pas restez là à ne rien faire! 
+Vous vous concentrez, réunissez toutes vos forces et vous accélérez. Les aiguilles glissent d'un quart de tour sur le cadrant jusqu'à indiquer 21:43.
+
+C'est vous qui êtes en contrôle du temps. Rien ne peut vous arrêter, le temps est entre vos aiguilles et si vous le jugez trop long, il n'a qu'à se plier à votre volonté.
+
+Quelques heures plus tard, la porte s'ouvre et l'homme, en T-shirt et caleçon, allume la lumière.
+
+Il ouvre son armoire et reste planté devant pendant 5 bonnes minutes sans bouger. Il finit par en sortir une chemise, une cravate et un complet qu’il pose sur sa chaise de bureau. Puis, il fouille dans un sac à dos appuyé contre le fauteuil et extrait une feuille d’un porte-document qui s’y trouvait. Les yeux rivés sur le papier, l’homme se met à marmonner, en tournant en rond dans la pièce. Il s’arrête ensuite devant le miroir et entame une conversation avec son reflet:
+
+« Bonjour, merci d’avoir retenu ma candidature… Non. Enchanté, comment allez-vous ? » 
+Il écrit sur sa feuille et la parcourt des yeux avant de reprendre:
+« Oui, merci de demander. Il se trouve que je suis passionné par la communication avant tout mais j’aime également le dessin. Je suis quelqu’un de très créatif. Euh…»
+Il se retourne, griffonne sur le papier et recommence à marmonner.
+
+Au bout de 30 minutes de murmures, il range la feuille dans le sac avant de se mettre au lit. Il se retourne vers vous, vous attrape et écarquille violemment les yeux. Il se lève en vous emportant avec lui, hors de la chambre. Il tourne à gauche et entre dans la cuisine pour se ruer sur son téléphone posé sur le comptoir. Celui-ci affiche 23:15, alors que vos aiguilles indiquent 02:04.
+
+Il vous pose brusquement et recule de deux pas. Il vous fixe quelques secondes, puis saisit son téléphone et s’éloigne à l’autre bout de la cuisine. Ses yeux oscillent nerveusement entre vous et l’écran. 
+Au bout d’un moment, il se met à fouiller dans les tiroirs et en sort du sel et un bâton d’encens. Les mains tremblantes, il s’approche de vous, trace un cercle de sel autour de vous, puis allume l’encens qu’il pose à côté.
+
+[[Ne rien faire->Vente R2C2S1]]
+
+[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Changer d'heure</span>->Vente C3S1]]
+
+[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Sonner</span>->Vente C2S2]]
+
+
+:: Changer l'heure R1S1 {"position":"2425,575","size":"100,100"}
+L'attente est insoutenable. Vous ne pouvez pas restez là à ne rien faire! Après tout, vous êtes un réveil, c'est vous qui indiquez l'heure. Rien ne peut vous arrêter, le temps est entre vos aiguilles et si vous le jugez trop long, il n'a qu'à se plier à votre volonté.
+
+Vous vous concentrez, réunissez toutes vos forces et vous accélérez. Les aiguilles glissent d'un quart de tour sur le cadrant jusqu'à indiquer 21:43.
+
+Malgré votre puissance, tous ces efforts vous ont épuisés. Vous devez reprendre vos esprits.
+
+
+[[Ne rien faire->Nuit 1 après S1C1]]
+
+
+:: Changer l'heure R2C1 {"position":"1950,500","size":"100,100"}
+C'est insoutenable. Vous ne pouvez pas rester là à ne rien faire! 
+Vous vous concentrez, réunissez toutes vos forces et vous accélérez. Les aiguilles glissent d'un quart de tour sur le cadrant jusqu'à indiquer 21:43.
+
+C'est vous qui êtes en contrôle du temps. Rien ne peut vous arrêter, le temps est entre vos aiguilles et si vous le jugez trop long, il n'a qu'à se plier à votre volonté.
+
+Malgré votre puissance, tous ces efforts vous ont épuisés. Vous devez reprendre vos esprits.
+
+
+[[Ne rien faire->Nuit 1 après C1]]
+
+
+:: Changer l'heure R3 5:30 [sombre] {"position":"1550,800","size":"100,100"}
+Les heures passent au rythme lent de la respiration de l'homme, ponctuées par quelques mots inintelligibles et de légers ronflements.
+
+Que c’est agaçant de passer son temps à attendre. Même votre patience a ses limites. Il faut dire que vous appartenez déjà à l’élite de ceux capables de ne rien faire pendant plus de 12 heures, on ne pourra pas vous reprocher votre manque de sang-froid.
+
+Mais rien ne vous empêche d’adapter le temps à vos désirs, c’est vous qui l’indiquez.
+
+Vous vous concentrez, réunissez toutes vos forces et vous accélérez. Les aiguilles glissent légèrement plus vite sur le cadran jusqu’à atteindre 7:00. Un frisson incontrôlable vous parcourt alors et votre corps entier se met à trembler violemment en émettant un vacarme assourdissant qui déchire le silence de la nuit.
+
+L’homme grommelle. Il se tourne lentement pour vous arrêter, se frotte les yeux, allume la lumière et se lève avec difficulté pour sortir de la pièce. 
+
+Une demi-heure plus tard, il revient, les cheveux humides et les lunettes propres. Il enfile les vêtements qu’il a préparé la veille et baille à s’en décrocher la mâchoire. Il prend son sac et se regarde dans le miroir. Tout à coup, il secoue ses bras, se met de petites claques sur les joues, puis jette un coup d’œil à votre cadran. Il souffle, éteint la lumière et sort de la chambre.
+
+Mais vous n’entendez pas de porte claquer. Seulement quelques minutes après être sorti, voilà qu’il entre à nouveau dans la chambre, son téléphone à la main. Il le pose sur le lit pour vous saisir et vous voyez que celui-ci affiche 05:49, alors que vos aiguilles indiquent 07:37.
+
+L’homme soupire, s’assoit par terre et se masse les sourcils avec son pouce et son index. Il reste là plusieurs minutes mais finit par se relever péniblement. Il vous laisse tomber sur le lit, emporte son téléphone et sort. Vous entendez la porte d’entrée se refermer et les premiers oiseaux chanter.
+
+
+[[Ne rien faire->Ne rien faire R3C1]]
+
+[[<span style="color: black; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='black';">Changer l'heure</span>->Changer l'heure R3C1]]
+
+[[<span style="color: black; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='black';">Sonner</span>->Sonner dans le vide]]
+
+
+:: Changer l'heure R3C1 {"position":"1650,925","size":"100,100"}
+Le soleil se lève lentement, trop à votre goût. Vous avez besoin d’un peu d’activité physique. Vous vous concentrez une nouvelle fois, canalisez votre esprit et vous poussez. Les aiguilles accélèrent et bougent sur leur cadran. Mais vous vous fatiguez après deux tours complets. Alors, vous regardez les plis que crée la couverture, y cherchant des formes intéressantes. Vous observez le design de la chaise de bureau et jugez qu’elle pourrait être plus confortable. Vous fixez le mur blanc en vous perdant dans vos pensées.
+
+Soudain, la porte claque et vous entendez la voix étouffée de l’homme résonner à travers les murs : « mhmh. C’est clair… Ouais, moi non plus. Je te jure ! Heureusement que je suis parti plus tôt, sinon j’aurais pu finir là-dedans. Mh c’est horrible. Oui, je vais bien… Mais je vais quand même remettre mon réveil à l’heure, même si ça m’a bien servi pour cette fois… Ah bah ça s’est plutôt bien passé finalement ahahah. Il a même rigolé à un moment, je prends ça comme un bon signe… mhmh. On se voit ce soir alors… Oui. Je t’aime aussi, bisou. »
+
+L’homme entre dans la chambre. Il pose son sac et vous regarde quelques instants avant de s’asseoir devant son ordinateur et de commencer à taper sur son clavier. Puis, il ouvre un tiroir, en sort des piles et un tournevis, et s’approche de vous. Il vous ouvre le dos. Pendant un instant, tout devient noir. Vous reprenez conscience alors que l’homme vous repose sur la table de chevet avant de s’installer à nouveau devant son ordinateur.
+
+Il joue pendant plusieurs heures à un jeu que, malgré tous vos efforts, vous ne comprenez pas, mais vous appréciez tout de même les flashs de couleur à l’écran. En fin d’après-midi, il finit par se lever pour ouvrir la fenêtre. Sa chemise froissée est sortie de son pantalon, sa cravate et son veston traînent au sol. Il fredonne et sort de la chambre en faisant onduler son corps de façon étrange, comme s’il dansait sur une musique qui n’existe que dans sa tête. Il claque la porte avec un coup de hanche.
+
+De la musique rythmée filtre à travers la porte, tandis que la pièce se teinte doucement d’orange. Une fois la nuit tombée, la musique est remplacée par un film. Alors que vous essayez d’écouter le dialogue des acteurs, un choc discret résonne dans votre dos, suivi par un léger froissement.
+
+Vous vous figez pour mieux écouter.
+
+[[Ne rien faire->écoute]]
+
+
+:: Changer l'heure R3S1 5:30 [sombre] {"position":"2150,800","size":"100,100"}
+Les heures passent au rythme lent de la respiration de l'homme, ponctuées par quelques mots inintelligibles et de légers ronflements.
+
+Le temps se fait très long à votre goût. Mais rien ne vous empêche d’adapter le temps à vos désirs, c’est vous qui l’indiquez.
+
+Vous vous concentrez, réunissez toutes vos forces et vous accélérez. Les aiguilles glissent légèrement plus vite sur le cadran jusqu’à atteindre 7:00. Un frisson incontrôlable vous parcourt alors et votre corps entier se met à trembler violemment en émettant un vacarme assourdissant qui déchire le silence de la nuit.
+
+L’homme grommelle. Il se tourne lentement pour vous arrêter, se frotte les yeux, allume la lumière et se lève avec difficulté pour sortir de la pièce. 
+
+Une demi-heure plus tard, il revient, les cheveux humides et les lunettes propres. Il enfile les vêtements qu’il a préparé la veille et baille à s’en décrocher la mâchoire. Il prend son sac et se regarde dans le miroir. Tout à coup, il secoue ses bras, se met de petites claques sur les joues, puis jette un coup d’œil à votre cadran. Il souffle, éteint la lumière et sort de la chambre.
+
+Mais vous n’entendez pas de porte claquer. Seulement quelques minutes après être sorti, voilà qu’il entre à nouveau dans la chambre, son téléphone à la main. Il le pose sur le lit pour vous saisir et vous voyez que celui-ci affiche 05:49, alors que vos aiguilles indiquent 07:37.
+
+L’homme soupire, s’assoit par terre et se masse les sourcils avec son pouce et son index. Il reste là plusieurs minutes mais finit par se relever péniblement. Il vous laisse tomber sur le lit, emporte son téléphone et sort. Vous entendez la porte d’entrée se refermer et les premiers oiseaux chanter.
+
+[[Ne rien faire->Ne rien faire R3S1C1]]
+
+[[<span style="color: black; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='black';">Changer l'heure</span>->Changer l'heure R3S1C2]]
+
+[[<span style="color: black; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='black';">Sonner</span>->Sonner dans le vide R3S2C1]]
+
+
+:: Changer l'heure R3S1C2 {"position":"2250,925","size":"100,100"}
+Le soleil se lève lentement, trop à votre goût. Vous avez besoin d’un peu d’activité physique. Vous vous concentrez une nouvelle fois, canalisez votre esprit et vous poussez. Les aiguilles accélèrent et bougent sur leur cadran. Mais vous vous fatiguez assez vite. Alors, vous regardez les plis que crée la couverture, y cherchant des formes intéressantes. Vous observez le design de la chaise de bureau et jugez qu’elle pourrait être plus confortable. Vous fixez le mur blanc en vous perdant dans vos pensées.
+
+Soudain, la porte claque et vous entendez la voix étouffée de l’homme résonner à travers les murs : « mhmh. C’est clair… Ouais, moi non plus. Je te jure ! Heureusement que je suis parti plus tôt, sinon j’aurais pu finir là-dedans. Mh c’est horrible. Oui, je vais bien… Mais je vais quand même essayer de remettre mon réveil à l’heure, même si ça m’a bien servi pour cette fois… Ah bah ça s’est plutôt bien passé finalement ahahah. Il a même rigolé à un moment, je prends ça comme un bon signe… mhmh. On se voit ce soir alors… Oui. Je t’aime aussi, bisou. »
+
+L’homme entre dans la chambre. Il pose son sac et se dirige droit vers vous. Il vous saisit, règle vos aiguilles avec un des boutons dans votre dos et vous lance un regard menaçant.
+« Tu as intérêt à arrêter de déconner maintenant. » 
+Puis, l’homme vous repose sur la table de chevet avant de s’installer à nouveau devant son ordinateur.
+
+Il joue pendant plusieurs heures à un jeu que, malgré tous vos efforts, vous ne comprenez pas, mais vous appréciez tout de même les flashs de couleur à l’écran. En fin d’après-midi, il finit par se lever pour ouvrir la fenêtre. Sa chemise froissée est sortie de son pantalon, sa cravate et son veston traînent au sol. Il fredonne et sort de la chambre en faisant onduler son corps de façon étrange, comme s’il dansait sur une musique qui n’existe que dans sa tête. Il claque la porte avec un coup de hanche.
+
+De la musique rythmée filtre à travers la porte, tandis que la pièce se teinte doucement d’orange. Une fois la nuit tombée, la musique est remplacée par un film. Alors que vous essayez d’écouter le dialogue des acteurs, un choc discret résonne dans votre dos, suivi par un léger froissement.
+
+Vous vous figez pour mieux écouter.
+
+[[Ne rien faire->écoute RSC]]
+
+
+:: Changer l'heure R4 {"position":"725,775","size":"100,100"}
+Vous regardez les plis que crée la couverture, y cherchant des formes intéressantes. Vous observez le design de la chaise de bureau et jugez qu’elle pourrait être plus confortable. Rapidement, l’ennui vous submerge. Vous avez déjà attendu pendant plus de 20 heures sans rien faire, il est temps de prendre les choses en main. Vous vous concentrez, réunissez toutes vos forces et vous accélérez. Les aiguilles glissent sur votre cadran et vous vous sentez invincible. Rien ne peut vous arrêter, le temps est entre vos aiguilles et si vous le jugez trop long, il n'a qu'à se plier à votre volonté. Malgré votre puissance, tous ces efforts vous épuisent vite et vous devez reprendre votre souffle. Vous en venez à fixez le mur blanc en vous perdant dans vos pensées.
+
+Le temps passe, les ombres se déplacent dans la pièce et le soleil finit par se coucher, alors que vos aiguilles indiquent 02:34, sans que l’homme ne revienne.
+
+
+[[Ne rien faire->Homme mort]]
+
+
+:: Changer l'heure police R5C2 [Fin] {"position":"1725,1375","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.1432,#000000,1,#474646)))Vous voulez aidez ces braves gens. Vous réunissez vos forces et tentez de pointer vos aiguilles en direction de l’armoire du mieux que vous le pouvez. Malheureusement, ils ne vous accordent aucune attention.
+
+Après avoir inspecté toute la pièce tout en posant de nombreuses questions à l’homme, les policiers se rapprochent de lui.
+« Monsieur Wecker, nous sommes désolés, mais nous n’avons rien relevé d’exploitable. Le cambrioleur semble avoir pris ses précautions… euh accepteriez-vous que nous nous asseyions pour parler de la suite ? »
+L’homme hoche la tête et les accompagne hors de la chambre, refermant la porte derrière eux.
+
+Lorsqu’il revient dans la chambre, il va droit vers les fenêtres pour vérifier qu’elles sont bien verrouillées. Il vous jette un regard rapide au passage. Avant d’ouvrir l’armoire, il marque un temps d’arrêt et se retourne à nouveau vers vous. Il fixe vos aiguilles et pousse un long soupir en vous regardant d’un air déçu. Il vous empoigne et sort de la chambre pour aller dans la cuisine. Il ouvre un placard et en sort un carton familier. 
+Après un dernier coup d'œil, il vous dépose dans la boîte et la referme, vous abandonnant dans le noir.
+
+
+
+:: Changer l'heure pour sonner C1 [Fin] {"position":"1850,800","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.3901,#343a40,1,#000000)))Les heures passent au rythme lent de la respiration de l'homme, ponctuées par quelques mots inintelligibles et de légers ronflements.
+
+Malheureusement, vous ne pouvez pas dormir pour faire passer le temps et l’homme n’est pas très divertissant lorsqu’il dort. Mais vous pouvez toujours le réveiller un peu plus tôt pour abréger vos souffrances. Vous vous concentrez à nouveau, canalisez votre esprit et vous poussez. Les aiguilles accélèrent sur le cadran jusqu’à atteindre 7:00. Un frisson incontrôlable vous parcourt alors et votre corps entier se met à trembler violemment en émettant un vacarme assourdissant qui déchire le silence de la nuit.
+
+L’homme grommelle. Il se tourne lentement pour vous arrêter, se frotte les yeux, allume la lumière et se lève avec difficulté pour sortir de la pièce. 
+
+À peine deux minutes plus tard, il réapparait, jurant à mi-voix. Il s’approche de vous d’un pas rageur, vous saisit avec violence et vous emporte dans la cuisine. Pendant que l’homme sort un carton d’un placard, vous apercevez que le four indique 04:20. Sans un autre regard, il vous lance dans cette boîte étrangement familière et la referme brusquement sur vous.
+
+Dans le noir, la solitude vous envahit alors que vous entendez les pas de l’homme s’éloigner. 
+
+Il vous déteste probablement.
+
+
+:: Changer l'heure vole R4C1 [sombre] {"position":"1900,1200","size":"100,100"}
+La peur vous submerge et vous êtes incapable de réfléchir correctement. Dans la panique, vous faites tourner vos aiguilles à toute vitesse. Pendant ce temps, l’intru, cagoulé et couvert de vêtements noirs, commence par fouiller le sac au sol et le bureau, s’emparant du portemonnaie et de l’ordinateur portable de votre propriétaire. Ensuite, la silhouette d’encre, ouvre l’armoire, fouille dans les tiroirs et les vêtements et ressort par le balcon aussi vite qu’elle est entrée, en emportant son butin et laissant la chambre en vrac.
+
+Moins d'une heure plus tard, l'homme ouvre la porte de la chambre. Il se fige et sa mâchoire tombe. Il se précipite vers les fenêtres pour les refermer avant de frénétiquement se mettre à la recherche des objets volés en jurant à voix basse. Il finit par tourner en rond dans la pièce, passant ses mains dans ses cheveux, les yeux hagards. Puis, il sort en refermant la porte. Depuis une autre pièce, vous entendez l’écho de sa voix saccadée. Vous saisissez des bribes de conversation :
+
+« Allô?... besoin d’aide… fait volé. Oui. La fenêtre était ouverte mais j’étais là… Mon ordinateur, ma montre, mon portemonnaie… dois vérifier… Rien toucher? Mais c’est ma chambre… Oui… Rue du Chêne… premier étage. D’accord… » 
+La conversation s’estompe. 
+
+À 23:21, on sonne à la porte. Quelques instants plus tard, des bruits de pas étouffés se font de plus en plus forts et deux agents de police gantés entrent dans la chambre pendant que l’homme les observe depuis l’embrasure de la porte. L’un se met à inspecter le bureau pendant que l’autre s’approche de la porte-fenêtre.
+
+
+[[Ne rien faire->police R4C2]]
+
+[[<span style="color: black; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='black';">Changer l'heure</span>->Changer l'heure police R5C2]]
+
+[[<span style="color: black; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='black';">Sonner</span>->Sonner police sursaut]]
+
+
+
+:: Dieu du temps C2 {"position":"3600,400","size":"100,100"}
+Les heures passent lentement.
+
+Vous observez les ombres se déplacer dans la chambre, alors que le soleil se couche. 
+
+C'est insoutenable. Vous ne pouvez pas rester là à ne rien faire!
+Vous vous concentrez à nouveau, canalisez votre esprit et vous poussez. Les aiguilles accélèrent et bougent d'un quart de tour sur le cadran jusqu'à indiquer 21:43.
+
+C'est vous qui êtes en contrôle du temps. Rien ne peut vous arrêter, le temps est entre vos aiguilles et si vous le jugez trop long, il n'a qu'à se plier à votre volonté. 
+
+Malgré votre puissance, tous ces efforts vous ont épuisés. Vous devez reprendre vos esprits.
+
+
+[[Ne rien faire->Brûlé par le temps C2]]
+
+
+:: Dieu du temps C2R1 {"position":"3600,525","size":"100,100"}
+C'est insoutenable. Vous ne pouvez pas rester là à ne rien faire!
+Vous vous concentrez à nouveau, canalisez votre esprit et vous poussez. Les aiguilles accélèrent et bougent d'un quart de tour sur le cadran jusqu'à indiquer 21:43.
+
+C'est vous qui êtes en contrôle du temps. Rien ne peut vous arrêter, le temps est entre vos aiguilles et si vous le jugez trop long, il n'a qu'à se plier à votre volonté. 
+
+Malgré votre puissance, tous ces efforts vous ont épuisés. Vous devez reprendre vos esprits.
+
+
+[[Ne rien faire->Brûlé par le temps C2]]
+
+
+:: Dieu du temps R1C1 {"position":"1950,400","size":"100,100"}
+Les heures passent lentement.
+
+Vous observez les ombres se déplacer dans la chambre, alors que le soleil se couche. 
+
+C'est insoutenable. Vous ne pouvez pas rester là à ne rien faire! 
+Vous vous concentrez, réunissez toutes vos forces et vous accélérez. Les aiguilles glissent d'un quart de tour sur le cadran jusqu'à indiquer 21:43.
+
+C'est vous qui êtes en contrôle du temps. Rien ne peut vous arrêter, le temps est entre vos aiguilles et si vous le jugez trop long, il n'a qu'à se plier à votre volonté. 
+
+Malgré votre puissance, tous ces efforts vous ont épuisés. Vous devez reprendre vos esprits.
+
+
+[[Ne rien faire->Nuit 1 après C1]]
+
+
+:: Homme mort [Fin] {"position":"600,875","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.2321,#212529,0.5802,#474646,1,#474646)))Plusieurs jours passent, sans que personne n’entre dans la chambre statique. Vous vous évadez dans votre esprit et vous vous déconnectez de plus en plus de la réalité.
+
+Soudain, la porte s’ouvre, vous ramenant brusquement sur terre. De légers cliquetis de talons, lents et mesurés, résonnent dans le couloir, suivis par un chœur de pas lourds. Ce n’est pas l’homme qui entre dans la chambre, mais une petite dame aux cheveux grisonnants qui referme la porte derrière elle.
+
+Elle fait le tour de la chambre, observe chaque objet avec attention. Arrivée devant le lit, elle effleure la couverture du bout des doigts et un sanglot lui échappe. Elle se couvre la bouche d’une main tremblante, recule d’un pas incertain et s’effondre dans la chaise de bureau, secouée par des pleurs incontrôlables. Quelques minutes passent avant qu’elle ne s’apaise. Les joues mouillées, elle regarde les photos accrochées sur le tableau en face d’elle.
+
+Trois faibles coups résonnent sur la porte close. La poignée tourne lentement et un homme massif, visiblement gêné, apparait dans l’embrasure :
+« Je suis vraiment désolé, madame… mais il faudrait que vous veniez, pour décider ce que vous voulez garder ou non. »
+Elle acquiesce d’un simple hochement de tête, essuie ses larmes d’un geste discret, se lève sans un mot et le suit dans le couloir. 
+
+Plusieurs personnes en t-shirt bleu vont et viennent, transportant des cartons et des meubles. Finalement, l’homme massif entre à nouveau dans la chambre avec la femme grisonnante et un carton vide. Ils se mettent à trier les objets de la pièce. Lorsqu’il vous saisit, il se retourne vers la femme :
+« ça ? »
+Elle secoue légèrement la tête de gauche à droite. La seconde d’après, l’homme vous lâche dans un carton à moitié rempli de bric-à-brac. Au fur et à mesure qu’il y jette d’autres choses, vous finissez enseveli sous les babioles et vous vous retrouvez à nouveau dans le noir.
+
+C’est une bien triste fin à votre carrière. Si seulement vous aviez pu changer les choses en tant que pauvre réveil sans volonté.
+
+
+
+:: Installation [sombre] {"position":"2600,25","size":"100,100"}
+Les secousses ont cessé. 
+
+Vous ne voyez rien et n'entendez que des bruits de pas, étouffés par le plastique qui vous enrobe. Il vous est impossible de bouger.
+
+
+[[Ne rien faire->sortir]]
+
+
+:: Le laisser dormir 7:00 [sombre] {"position":"1000,800","size":"100,100"}
+Les heures passent au rythme lent de la respiration de l'homme, ponctuées par quelques mots inintelligibles et de légers ronflements.
+
+Les oiseaux commencent à chanter et l’heure de l’alarme approche. Les aiguilles glissent sur le cadran, jusqu’à atteindre 7:00. Un frisson incontrôlable vous parcourt alors et votre corps entier se met à trembler violemment en émettant un vacarme assourdissant.
+
+L’homme grommelle. Il se tourne lentement pour vous arrêter, se frotte les yeux, allume la lumière et se lève avec difficulté pour sortir de la pièce. 
+
+Une demi-heure plus tard, il revient en chantonnant, les cheveux humides et les lunettes propres. Il enfile les vêtements qu’il a préparé la veille et ramasse son sac. Il se regarde dans le miroir pour vérifier si sa tenue est en ordre et passe ses mains dans ses cheveux. Tout à coup, il secoue ses bras, se met de petites claques sur les joues, puis jette un coup d’œil à votre cadran. Il souffle, éteint la lumière et sort de la chambre.
+
+Vous entendez la porte d’entrée claquer, puis plus rien.
+
+
+[[Ne rien faire->Ne rien faire R4]]
+
+[[<span style="color: black; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='black';">Changer l'heure</span>->Changer l'heure R4]]
+
+[[<span style="color: black; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='black';">Sonner</span>->Sonner dans le vide R4]]
+
+
+:: Ne rien faire C1 attendre nuit {"position":"3300,400","size":"100,100"}
+Les heures passent lentement.
+
+Alors que le soleil se couche, vous observez les ombres se déplacer dans la chambre jusqu'à ce qu'elles engloutissent entièrement la pièce.
+
+
+[[Ne rien faire->Réveil enclenché R2S1]] 
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Changer l'heure</span>->Dieu du temps C2R1]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Sonner</span>->Sonner C1R1 flippe]]
+
+
+:: Ne rien faire R3C1 {"position":"1450,925","size":"100,100"}
+Vous attendez sagement. Vous regardez les plis créés par la couverture, y cherchant des formes intéressantes. Vous observez le design de la chaise de bureau et jugez qu’elle pourrait être plus confortable. Vous fixez le mur blanc en vous perdant dans vos pensées.
+
+Soudain, la porte claque et vous entendez la voix étouffée de l’homme résonner à travers les murs : « mhmh. C’est clair… Ouais, moi non plus. Je te jure ! Heureusement que je suis parti plus tôt, sinon j’aurais pu finir là-dedans. Mh c’est horrible. Oui, je vais bien… Mais je vais quand même remettre mon réveil à l’heure, même si ça m’a bien servi pour cette fois… Ah bah ça s’est plutôt bien passé finalement ahahah. Il a même rigolé à un moment, je prends ça comme un bon signe… mhmh. On se voit ce soir alors… Oui. Je t’aime aussi, bisou. »
+
+L’homme entre dans la chambre. Il pose son sac et vous regarde quelques instants avant de s’asseoir devant son ordinateur et de commencer à taper sur son clavier. Puis, il ouvre un tiroir, en sort des piles et un tournevis, et s’approche de vous. Il vous ouvre le dos. Pendant un instant, tout devient noir. Vous reprenez conscience alors que l’homme vous repose sur la table de chevet avant de s’installer à nouveau devant son ordinateur.
+
+Il joue pendant plusieurs heures à un jeu que, malgré tous vos efforts, vous ne comprenez pas, mais vous appréciez tout de même les flashs de couleur à l’écran. En fin d’après-midi, il finit par se lever pour ouvrir la fenêtre. Sa chemise froissée est sortie de son pantalon, sa cravate et son veston traînent au sol. Il fredonne et sort de la chambre en faisant onduler son corps de façon étrange, comme s’il dansait sur une musique qui n’existe que dans sa tête. Il claque la porte avec un coup de hanche.
+
+De la musique rythmée filtre à travers la porte, tandis que la pièce se teinte doucement d’orange. Une fois la nuit tombée, la musique est remplacée par un film. Alors que vous essayez d’écouter le dialogue des acteurs, un choc discret résonne dans votre dos, suivi par un léger froissement.
+
+Vous vous figez pour mieux écouter.
+
+
+[[Ne rien faire->écoute]]
+
+
+:: Ne rien faire R3S1C1 {"position":"2050,925","size":"100,100"}
+Vous attendez sagement. Vous regardez les plis créés par la couverture, y cherchant des formes intéressantes. Vous observez le design de la chaise de bureau et jugez qu’elle pourrait être plus confortable. Vous fixez le mur blanc en vous perdant dans vos pensées.
+
+Soudain, la porte claque et vous entendez la voix étouffée de l’homme résonner à travers les murs : « mhmh. C’est clair… Ouais, moi non plus. Je te jure ! Heureusement que je suis parti plus tôt, sinon j’aurais pu finir là-dedans. Mh c’est horrible. Oui, je vais bien… Mais je vais quand même essayer de remettre mon réveil à l’heure, même si ça m’a bien servi pour cette fois… Ah bah ça s’est plutôt bien passé finalement ahahah. Il a même rigolé à un moment, je prends ça comme un bon signe… mhmh. On se voit ce soir alors… Oui. Je t’aime aussi, bisou. »
+
+L’homme entre dans la chambre. Il pose son sac et se dirige droit vers vous. Il vous saisit, règle vos aiguilles avec un des boutons dans votre dos et vous lance un regard menaçant.
+« Tu as intérêt à arrêter de déconner maintenant. » 
+Puis, l’homme vous repose sur la table de chevet avant de s’installer à nouveau devant son ordinateur.
+
+Il joue pendant plusieurs heures à un jeu que, malgré tous vos efforts, vous ne comprenez pas, mais vous appréciez tout de même les flashs de couleur à l’écran. En fin d’après-midi, il finit par se lever pour ouvrir la fenêtre. Sa chemise froissée est sortie de son pantalon, sa cravate et son veston traînent au sol. Il fredonne et sort de la chambre en faisant onduler son corps de façon étrange, comme s’il dansait sur une musique qui n’existe que dans sa tête. Il claque la porte avec un coup de hanche.
+
+De la musique rythmée filtre à travers la porte, tandis que la pièce se teinte doucement d’orange. Une fois la nuit tombée, la musique est remplacée par un film. Alors que vous essayez d’écouter le dialogue des acteurs, un choc discret résonne dans votre dos, suivi par un léger froissement.
+
+Vous vous figez pour mieux écouter.
+
+[[Ne rien faire->écoute RSC]]
+
+
+:: Ne rien faire R4 {"position":"625,675","size":"100,100"}
+Vous attendez sagement. Vous regardez les plis que crée la couverture, y cherchant des formes intéressantes. Vous observez le design de la chaise de bureau et jugez qu’elle pourrait être plus confortable. Vous fixez le mur blanc en vous perdant dans vos pensées.
+
+Le temps passe, les ombres se déplacent dans la pièce et le soleil finit par se coucher sans que l’homme ne revienne.
+
+
+[[Ne rien faire->Homme mort]]
+
+
+:: Ne rien faire posé [clair] {"position":"2400,250","size":"100,100"}
+L'homme fait quelques pas et vous pose délicatement à coté d'une lampe sur une sobre table de chevet blanche avant de prendre le carton vide et de sortir de la chambre.
+
+D'ici, vous avez une bonne vue d'ensemble de la pièce. Vous vous trouvez dans un coin, entre le lit et un mur percé d'une fenêtre et d'une porte-fenêtre donnant sur un petit balcon. Un miroir et une bibliothèque séparent le lit de la porte de la chambre qui fait face aux fenêtres. Un fauteuil et un bureau occupent le coin opposé au vôtre. En face du lit, à côté du bureau, une armoire est encastrée dans le mur.
+
+
+[[Ne rien faire->Attendre la nuit]]
+
+(align:"<==")+(box:"=========XXXXXXXXXXXXXXXXXXXX=====================")[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Changer l'heure</span>->Dieu du temps R1C1]]
+
+[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Sonner</span>->Sonner R1 piles]]
+
+
+:: Ne rien faire vole R4C1 [sombre] {"position":"1700,1200","size":"100,100"}
+La peur vous submerge et vous êtes incapable de faire quoi que ce soit, mise à part assister à ce qu’il se passe. L’intrus, cagoulé et couvert de vêtements noirs, commence par fouiller le sac au sol et le bureau, s’emparant du portemonnaie et de l’ordinateur portable de votre propriétaire. Ensuite, la silhouette d’encre, ouvre l’armoire, fouille dans les tiroirs et les vêtements et ressort par le balcon aussi vite qu’elle est entrée, en emportant son butin et laissant la chambre en vrac.
+
+Moins d'une heure plus tard, l'homme ouvre la porte de la chambre. Il se fige et sa mâchoire tombe. Il se précipite vers les fenêtres pour les refermer avant de frénétiquement se mettre à la recherche des objets volés en jurant à voix basse. Il finit par tourner en rond dans la pièce, passant ses mains dans ses cheveux, les yeux hagards. Puis, il sort en refermant la porte. Depuis une autre pièce, vous entendez l’écho de sa voix saccadée. Vous saisissez des bribes de conversation :
+
+« Allô?... besoin d’aide… fait volé. Oui. La fenêtre était ouverte mais j’étais là… Mon ordinateur, ma montre, mon portemonnaie… dois vérifier… Rien toucher? Mais c’est ma chambre… Oui… Rue du Chêne… premier étage. D’accord… »
+La conversation s’estompe. 
+
+À 23:21, on sonne à la porte. Quelques instants plus tard, des bruits de pas étouffés se font de plus en plus forts et deux agents de police gantés entrent dans la chambre pendant que l’homme les observe depuis l’embrasure de la porte. L’un se met à inspecter le bureau pendant que l’autre s’approche de la porte-fenêtre.
+
+
+[[Ne rien faire->police R5C1]]
+
+[[<span style="color: black; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='black';">Changer l'heure</span>->Changer l'heure police R5C2]]
+
+[[<span style="color: black; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='black';">Sonner</span>->Sonner police sursaut]]
+
+
+
+:: Nuit 1 après C1 [clair] {"position":"1850,650","size":"100,100"}
+La porte s'ouvre et l'homme, en T-shirt et caleçon, allume la lumière.
+
+Il ouvre son armoire et reste planté devant pendant 5 bonnes minutes sans bouger. Il finit par en sortir une chemise, une cravate et un complet qu’il pose sur sa chaise de bureau. Puis, il fouille dans un sac à dos appuyé contre le fauteuil et extrait une feuille d’un porte-document qui s’y trouvait. Les yeux rivés sur le papier, l’homme se met à marmonner, en tournant en rond dans la pièce. Il s’arrête ensuite devant le miroir et entame une conversation avec son reflet:
+
+« Bonjour, merci d’avoir retenu ma candidature… Non. Enchanté, comment allez-vous ? » 
+Il écrit sur sa feuille et la parcourt des yeux avant de reprendre:
+« Oui, merci de demander. Il se trouve que je suis passionné par la communication avant tout mais j’aime également le dessin. Je suis quelqu’un de très créatif. Euh…»
+Il se retourne, griffonne sur le papier et recommence à marmonner.
+
+Au bout de 30 minutes de murmures, il range la feuille dans le sac avant de se mettre au lit. Il se retourne vers vous, vous attrape et écarquille violemment les yeux. Il se lève en vous emportant avec lui, hors de la chambre. Il tourne à gauche et entre dans la cuisine pour se ruer sur son téléphone posé sur le comptoir. Celui-ci affiche 23:15, alors que vos aiguilles indiquent 02:04.
+
+Il souffle. Son corps se relâche. 
+Il vous remet à l’heure et tourne votre aiguille d’alarme sur 7:00 avant de retourner dans la chambre pour se coucher, avec vous à ses côtés.
+
+
+[[Ne rien faire->Le laisser dormir 7:00]]
+
+
+[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Changer l'heure</span>->Changer l'heure pour sonner C1]]
+
+
+:: Nuit 1 après S1C1 [Fin] {"position":"2500,700","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.0963,#212529,0.5802,#868e96,1,#868e96)))La porte s'ouvre et l'homme, en T-shirt et caleçon, allume la lumière.
+
+Il ouvre son armoire et reste planté devant pendant 5 bonnes minutes sans bouger. Il finit par en sortir une chemise, une cravate et un complet qu’il pose sur sa chaise de bureau. Puis, il fouille dans un sac à dos appuyé contre le fauteuil et extrait une feuille d’un porte-document qui s’y trouvait. Les yeux rivés sur le papier, l’homme se met à marmonner, en tournant en rond dans la pièce. Il s’arrête ensuite devant le miroir et entame une conversation avec son reflet:
+
+« Bonjour, merci d’avoir retenu ma candidature… Non. Enchanté, comment allez-vous ? » 
+Il écrit sur sa feuille et la parcourt des yeux avant de reprendre:
+« Oui, merci de demander. Il se trouve que je suis passionné par la communication avant tout mais j’aime également le dessin. Je suis quelqu’un de très créatif. Euh…»
+Il se retourne, griffonne sur le papier et recommence à marmonner.
+
+Au bout de 30 minutes de murmures, il range la feuille dans le sac avant de se mettre au lit. Il se retourne vers vous, vous attrape et écarquille violemment les yeux. Il se lève en vous emportant avec lui, hors de la chambre. Il tourne à gauche et entre dans la cuisine pour se ruer sur son téléphone posé sur le comptoir. Celui-ci affiche 23:15, alors que vos aiguilles indiquent 02:04.
+
+Il souffle. Son corps se relâche. 
+
+Mais il ne vous ramène pas dans la chambre. Il vous pose sur la table et ouvre un placard pour en sortir un carton familier. L’homme vous lâche négligemment dans la boîte et s’en va, téléphone à la main.
+
+
+:: Oublié [Fin] {"position":"1500,1525","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.7556,#000000,1,#474646)))Après avoir déballé tous ses cartons, Wecker s’approche de vous. Son regard oscille entre vous et le réveil argenté à vos côtés. Puis, il vous saisit, laissant l’autre sur la table de chevet, et vous place au fond d’une armoire dont il referme la porte.
+
+Vous attendez, longtemps, en espérant que votre propriétaire ne vous ait pas oublié. Mais il ne reviendra jamais vous chercher. Dans le silence, vos piles s’épuisent lentement et le néant finit par vous engloutir.
+
+
+
+:: Panique rate job [Fin] {"position":"1050,1525","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.0593,#000000,1,#474646)))Dans la précipitation, vous agitez vos aiguilles en espérant peut-être attirer l’attention de l’homme. Mais celui-ci ne réagit pas et continue à dormir paisiblement, enseveli sous les draps.
+
+Quelques heures plus tard, il finit par se réveiller et s’étire en grognant. Il se frotte les yeux, se lève à contrecœur et va chercher son téléphone. Son visage se fige aussitôt. Son doigt déverrouille l’écran, il lit quelque chose. Il glisse une main glisse dans ses cheveux. L’homme lâche un juron et sort de la chambre en lançant un appel. Il fait les cent pas dans le couloir et vous entendez sa voix un peu tremblante y résonner: 
+« Oui, bonjour, vous avez tenté de me joindre ce matin alors je vous rappelle… Tout à fait. Oui, désolé, je dor… j’étais occupé ! Ah. Vous êtes sûr ? Oui, je comprends. Merci quand même. Bonne journée. »
+En silence, l’homme revient dans la chambre les bras ballants et s’affale sur le lit. 
+
+Les jours suivants, il s’enferme dans sa chambre, vissé à son ordinateur. Puis, peu à peu, il recommence à se lever le matin. Une routine s’installe. Vous apprenez à connaître ses habitudes, ses rythmes, ses absences et les jours s’enchaînent. Vous menez une vie de réveil raisonnable et accompagnez l’homme pendant plusieurs années. Mais un jour d’hiver, il rentre dans la chambre avec un beau réveil digital à la main. Il le dépose sur la table de chevet et vous saisit pour vous placer au fond d’une armoire, dont il referme la porte.
+
+Vous attendez, longtemps, en espérant que votre propriétaire ne vous ait pas oublié. Mais il ne reviendra jamais vous chercher. Dans le silence, vos piles s’épuisent lentement et le néant finit par vous engloutir.
+
+Malheureusement, vous n’aviez pas de place spéciale dans son cœur et il a fini par vous remplacer.
+
+
+
+:: Que de l'imagination [Fin] {"position":"2200,1800","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.1284,#000000,1,#474646)))Après quelques secondes sans que rien ne se passe, l’homme secoue la tête et vous repose.
+« Qu’est-ce que j’ai imaginé ?... Il faut que je sorte plus… C’est juste un réveil à moitié cassé. J’ai simplement eu de la chance… » 
+Il ouvre les rideaux, jette un dernier regard hésitant dans votre direction, puis quitte la chambre.
+
+Les jours, les semaines et les années passent. Une routine s’installe et vous menez une vie de réveil raisonnable. Mais un jour d’hiver, il rentre dans la chambre avec un beau réveil digital à la main. Il le dépose sur la table de chevet et vous saisit pour vous placer au fond d’une armoire, dont il referme la porte.
+
+Vous attendez, longtemps, en espérant que votre propriétaire ne vous ait pas oublié. Mais il ne reviendra jamais vous chercher. Dans le silence, vos piles s’épuisent lentement et le néant finit par vous engloutir.
+
+Malheureusement, vous n’aviez pas de place spéciale dans son cœur et il a fini par vous remplacer.
+
+
+
+:: Rate job [Fin] {"position":"900,1525","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.1284,#000000,1,#474646)))Vous laissez le téléphone s’essouffler. Ni vous, ni l’homme assoupi ne lui accordez la moindre attention. 
+
+Quelques heures plus tard, l’homme finit par se réveiller et s’étire en grognant. Il se frotte les yeux, se lève à contrecœur et va chercher son téléphone. Son visage se fige aussitôt. Son doigt déverrouille l’écran, il lit quelque chose. Il glisse une main glisse dans ses cheveux. Il lâche un juron et sort de la chambre en lançant un appel. Il fait les cent pas dans le couloir et vous entendez sa voix un peu tremblante y résonner: 
+« Oui, bonjour, vous avez tenté de me joindre ce matin alors je vous rappelle… Tout à fait. Oui, désolé, je dor… j’étais occupé ! Ah. Vous êtes sûr ? Oui, je comprends. Merci quand même. Bonne journée. »
+En silence, l’homme revient dans la chambre les bras ballants et s’affale sur le lit. 
+
+Les jours suivants, il s’enferme dans sa chambre, vissé à son ordinateur. Puis, peu à peu, il recommence à se lever le matin. Une routine s’installe. Vous apprenez à connaître ses habitudes, ses rythmes, ses absences et les jours s’enchaînent. Vous menez une vie de réveil raisonnable et accompagnez l’homme pendant plusieurs années. Mais un jour d’hiver, il rentre dans la chambre avec un beau réveil digital à la main. Il le dépose sur la table de chevet et vous saisit pour vous placer au fond d’une armoire, dont il referme la porte.
+
+Vous attendez, longtemps, en espérant que votre propriétaire ne vous ait pas oublié. Mais il ne reviendra jamais vous chercher. Dans le silence, vos piles s’épuisent lentement et le néant finit par vous engloutir.
+
+Malheureusement, vous n’aviez pas de place spéciale dans son cœur et il a fini par vous remplacer.
+
+
+
+:: Réveil enclenché [clair] {"position":"1550,650","size":"100,100"}
+La porte s'ouvre et l'homme, en T-shirt et caleçon, allume la lumière.
+
+Il ouvre son armoire et reste planté devant pendant 5 bonnes minutes sans bouger. Il finit par en sortir une chemise, une cravate et un complet qu’il pose sur sa chaise de bureau. Puis, il fouille dans un sac à dos appuyé contre le fauteuil et extrait une feuille d’un porte-document qui s’y trouvait. Les yeux rivés sur le papier, l’homme se met à marmonner, en tournant en rond dans la pièce. Il s’arrête ensuite devant le miroir et entame une conversation avec son reflet:
+
+« Bonjour, merci d’avoir retenu ma candidature… Non. Enchanté, comment allez-vous ? » 
+Il écrit sur sa feuille et la parcourt des yeux avant de reprendre:
+« Oui, merci de demander. Il se trouve que je suis passionné par la communication avant tout mais j’aime également le dessin. Je suis quelqu’un de très créatif. Euh…»
+Il se retourne, griffonne sur le papier et recommence à marmonner.
+
+Au bout de 30 minutes, il range la feuille dans le sac avant de se mettre au lit. Il se retourne vers vous, vous attrape et tourne un bouton dans votre dos, bougeant l’aiguille d’alarme sur 7:00. 
+
+Il éteint la lumière et s’endort.
+
+
+[[Ne rien faire->Le laisser dormir 7:00]]
+
+
+[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Changer l'heure</span>->Changer l'heure R3 5:30]]
+
+
+:: Réveil enclenché C1S1 [clair] {"position":"2900,650","size":"100,100"}
+Quelques heures plus tard, la porte s'ouvre et l'homme, en T-shirt et caleçon, allume la lumière.
+
+Il ouvre son armoire et reste planté devant pendant 5 bonnes minutes sans bouger. Il finit par en sortir une chemise, une cravate et un complet qu’il pose sur sa chaise de bureau. Puis, il fouille dans un sac à dos appuyé contre le fauteuil et extrait une feuille d’un porte-document qui s’y trouvait. Les yeux rivés sur le papier, l’homme se met à marmonner, en tournant en rond dans la pièce. Il s’arrête ensuite devant le miroir et entame une conversation avec son reflet:
+
+« Bonjour, merci d’avoir retenu ma candidature… Non. Enchanté, comment allez-vous ? » 
+Il écrit sur sa feuille et la parcourt des yeux avant de reprendre:
+« Oui, merci de demander. Il se trouve que je suis passionné par la communication avant tout mais j’aime également le dessin. Je suis quelqu’un de très créatif. Euh…»
+Il se retourne, griffonne sur le papier et recommence à marmonner.
+
+Au bout de 30 minutes, il range la feuille dans le sac avant de se mettre au lit. Il se retourne vers vous, vous attrape et tourne un bouton dans votre dos, bougeant l’aiguille d’alarme sur 7:00. 
+
+Il éteint la lumière et s’endort.
+
+[[Ne rien faire->Le laisser dormir 7:00]]
+
+
+[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Changer l'heure</span>->Changer l'heure pour sonner C1]]
+
+
+:: Réveil enclenché R2S1 [clair] {"position":"2200,650","size":"100,100"}
+La porte s'ouvre et l'homme, en T-shirt et caleçon, allume la lumière.
+
+Il ouvre son armoire et reste planté devant pendant 5 bonnes minutes sans bouger. Il finit par en sortir une chemise, une cravate et un complet qu’il pose sur sa chaise de bureau. Puis, il fouille dans un sac à dos appuyé contre le fauteuil et extrait une feuille d’un porte-document qui s’y trouvait. Les yeux rivés sur le papier, l’homme se met à marmonner, en tournant en rond dans la pièce. Il s’arrête ensuite devant le miroir et entame une conversation avec son reflet:
+
+« Bonjour, merci d’avoir retenu ma candidature… Non. Enchanté, comment allez-vous ? » 
+Il écrit sur sa feuille et la parcourt des yeux avant de reprendre:
+« Oui, merci de demander. Il se trouve que je suis passionné par la communication avant tout mais j’aime également le dessin. Je suis quelqu’un de très créatif. Euh…»
+Il se retourne, griffonne sur le papier et recommence à marmonner.
+
+Au bout de 30 minutes, il range la feuille dans le sac avant de se mettre au lit. Il se retourne vers vous, vous attrape et tourne un bouton dans votre dos, bougeant l’aiguille d’alarme sur 7:00. 
+
+Il éteint la lumière et s’endort.
+
+
+[[Ne rien faire->Le laisser dormir 7:00]]
+
+
+[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Changer l'heure</span>->Changer l'heure R3S1 5:30]]
+
+
+:: Réveiller pour job {"position":"1250,1600","size":"100,100"}
+Voyant que l’homme dort toujours paisiblement, vous décidez de prêter main-forte au téléphone dans ses efforts. Vous vous mettez à vibrer à votre tour et cognez votre marteau contre les cloches sur votre tête, libérant un vacarme qui réveillerait un mort.
+
+L’homme remue. Il grogne, fronce les sourcils et tend la main pour vous faire taire. Mais une vibration persiste. Il se fige un instant, le cerveau encore engourdi, avant de comprendre d’où provient le bourdonnement. Il se lève en vitesse pour attraper son téléphone, se racle la gorge, et décroche :
+« Allô ?... Tout à fait… Vraiment ?! Oh, oui, merci, j’en serai ravi !... Oui, très bien… Parfait. Je me réjouis de rejoindre votre équipe… Merci de votre réactivité… Oui, quand est-ce que je commence ?... Superbe…Oui, c’est tout bon pour moi… Merci beaucoup. Très belle journée à vous. Au revoir. »
+
+Il glousse dans sa barbe, puis se retourne vers vous les yeux brillants.
+« C’est pas possible. Tu es un réveil magique ? Mon ange gardien incarné ? »
+Il vous prend dans ses mains et hésite quelques instants avant de vous adresser à nouveau la parole : « Si tu me comprends… déplace tes aiguilles. » 
+Il vous fixe intensément, retenant son souffle.
+
+
+[[Ne rien faire->Un peu déçu]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Changer l'heure</span>->Ange gardien]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Sonner</span>->sursaut mortel]]
+
+
+:: Réveiller pour job RSC {"position":"2300,1600","size":"100,100"}
+Voyant que l’homme dort toujours paisiblement, vous décidez de prêter main-forte au téléphone dans ses efforts. Vous vous mettez à vibrer à votre tour et cognez votre marteau contre les cloches sur votre tête, libérant un vacarme qui réveillerait un mort.
+
+L’homme remue. Il grogne, fronce les sourcils et tend la main pour vous faire taire. Mais une vibration persiste. Il se fige un instant, le cerveau encore engourdi, avant de comprendre d’où provient le bourdonnement. Il se lève en vitesse pour attraper son téléphone, se racle la gorge, et décroche :
+« Allô ?... Tout à fait… Vraiment ?! Oh, oui, merci, j’en serai ravi !... Oui, très bien… Parfait. Je me réjouis de rejoindre votre équipe… Merci de votre réactivité… Oui, quand est-ce que je commence ?... Superbe…Oui, c’est tout bon pour moi… Merci beaucoup. Très belle journée à vous. Au revoir. »
+
+Il glousse dans sa barbe et pousse un long soupir de soulagement. Puis, son regard se tourne vers vous. Il fronce les sourcils et murmure : « Je t’avais pas enclenché, toi… »
+Il s’approche, vous prend dans ses mains et hésite quelques instants avant de vous adresser directement la parole : « Tu es bizarre… Est-ce que tu réagis à ton environnement ?... mmmh… Si tu me comprends... déplace tes aiguilles ! »
+Il vous fixe d’un regard détaché, comme s’il ne s’attendait pas vraiment à une réponse.
+
+
+[[Ne rien faire->Que de l'imagination]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Changer l'heure</span>->Ange gardien douteux]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Sonner</span>->sursaut mortel]]
+
+
+:: Sonner [Fin] {"position":"2600,250","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.6025,#212529,1,#868e96)))Un frisson vous parcourt. Votre corps entier se met à trembler violemment et vous émettez un vacarme assourdissant.
+
+Le pauvre homme écarquille les yeux, au point où ils auraient pu sortir de leurs orbites, et vous lâche dans son sursaut.
+
+Vous percutez la chaise de bureau avant de vous écraser contre le sol avec fracas. 
+
+Votre vision se trouble avant de s’obscurcir et le froid vous emporte.
+
+
+:: Sonner C1R1 flippe {"position":"3100,525","size":"100,100"}
+Cet homme ne peut tout de même pas envisager de vous laisser ici sans compagnie toute votre vie, vous allez mourir d’ennui! Un frisson vous parcourt. Votre corps entier se met à trembler violemment et vous émettez un vacarme assourdissant.
+
+L'homme ouvre brusquement la porte et se fige. Il balaye la pièce d’un regard fébrile, comme s’il cherchait un intru. Finalement, il s’approche de vous à pas rapides et appuie sur un bouton dans votre dos, vous ramenant au silence. Il vous examine, vous retournant dans tous les sens, avant de vous reposer sur la table de chevet sans avoir trouvé le moindre défaut à votre anatomie.
+
+Il vous fixe un moment en se rongeant les ongles, secoue la tête et finit par se retourner pour s’installer devant son ordinateur et commence à taper sur son clavier. Puis, il ouvre un tiroir, en sort des piles et un tournevis, et s’approche de vous.
+
+Il vous ouvre le dos. Pendant un instant, tout devient noir. Vous reprenez conscience alors que l’homme vous abandonne sur la table de chevet avant de ressortir de la pièce.
+
+
+[[Ne rien faire->Réveil enclenché C1S1]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Changer l'heure</span>->Changer l'heure C2S1]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Sonner</span>->Sonner C1S2]]
+
+
+:: Sonner C1S2 {"position":"3300,600","size":"100,100"}
+Non, non et non! Il ne peut pas partir comme ça en vous laissant à nouveau!
+Vous vous agitez et sonnez pour rappeler l’homme auprès de vous. Ça marche à merveille, il ouvre déjà la porte. Mais il reste figé dans l’embrasure, en vous fixant. Finalement, il s’avance d’un pas hésitant et vous saisit vivement pour vous éteindre. Il recule aussitôt à l’opposé de la pièce et sort son téléphone de sa poche. Ses yeux oscillent nerveusement entre vous et l’écran. Puis, il vous soulève du bout des doigts, vous emporte dans la cuisine et vous pose sur le comptoir. Il se met à fouiller dans les tiroirs et en sort du sel et un bâton d’encens. Les mains tremblantes, il s’approche de vous, trace un cercle de sel autour de vous, puis allume l’encens qu’il pose à côté.
+
+
+[[Ne rien faire->Vente R2C2S1]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Changer d'heure</span>->Vente C3S1]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Sonner</span>->Vente C2S2]]
+
+
+:: Sonner R1 piles [clair] {"position":"2250,375","size":"100,100"}
+Un frisson vous parcourt. Votre corps entier se met à trembler violemment et vous émettez un vacarme assourdissant.
+
+L'homme entre dans la chambre en courant. Il vous saisit violemment et appuie sur un bouton dans votre dos, vous ramenant aussitôt au silence.
+
+Il vous examine, vous retournant dans tous les sens, avant de vous reposer sur la table de chevet sans avoir trouvé le moindre défaut à votre anatomie.
+
+Il vous fixe un moment en se rongeant les ongles et finit par se retourner pour s’installer devant son ordinateur et commence à taper sur son clavier. Puis, il ouvre un tiroir, en sort des piles et un tournevis, et s’approche de vous.
+
+Il vous ouvre le dos. Pendant un instant, tout devient noir. Vous reprenez conscience alors que l’homme vous abandonne sur la table de chevet avant de ressortir de la pièce.
+
+Les heures passent lentement.
+
+Alors que le soleil se couche, vous observez les ombres se déplacer dans la chambre jusqu'à ce qu'elles engloutissent entièrement la pièce.
+
+
+[[Ne rien faire->Réveil enclenché R2S1]]
+
+[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Changer l'heure</span>->Changer l'heure R1S1]]
+
+[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Sonner</span>->Sonner R1S2]]
+
+
+:: Sonner R1S2 [Fin] {"position":"2600,400","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.3926,#212529,1,#474646)))Vous refusez que cet homme vous abandonne ici à votre sort. Un frisson vous parcourt à nouveau. Vous êtes pris de spasmes répétés et sonnez de toutes vos forces.
+
+La porte finit par s’ouvrir et l’homme réapparaît. Il se dirige vers vous à pas lourds. Il vous regarde quelques secondes avant de vous saisir et de vous secouer énergiquement. Voyant que vous ne vous taisez pas, il vous impose le silence en vous appuyant dans le dos.
+
+Il pousse un long soupir, met le tournevis dans sa poche de pantalon et vous emporte avec lui hors de la chambre. Après un tour à gauche, vous entrez dans la cuisine. Il vous regarde avec déception, vous pose sur la table et ouvre un placard pour en sortir un carton familier. 
+
+Après un dernier regard, l’homme saisit le tournevis, vous retourne et ouvre votre boîtier. Vos forces vous quittent brusquement. Votre vision se trouble avant de s’obscurcir et le froid vous emporte.
+
+
+
+:: Sonner R2 piles {"position":"2250,475","size":"100,100"}
+Un frisson vous parcourt. Votre corps entier se met à trembler violemment et vous émettez un vacarme assourdissant.
+
+L'homme entre dans la chambre en courant. Il vous saisit violemment et appuie sur un bouton dans votre dos, vous ramenant aussitôt au silence.
+
+Il vous examine, vous retournant dans tous les sens, avant de vous reposer sur la table de chevet sans avoir trouvé le moindre défaut à votre anatomie.
+
+Il vous fixe un moment en se rongeant les ongles et finit par se retourner pour s’installer devant son ordinateur et commence à taper sur son clavier. Puis, il ouvre un tiroir, en sort des piles et un tournevis, et s’approche de vous.
+
+Il vous ouvre le dos. Pendant un instant, tout devient noir. Vous reprenez conscience alors que l’homme vous abandonne sur la table de chevet avant de ressortir de la pièce.
+
+
+[[Ne rien faire->Réveil enclenché R2S1]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Changer l'heure</span>->Changer l'heure R1S1]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Sonner</span>->Sonner R1S2]]
+
+
+:: Sonner dans le vide {"position":"1550,925","size":"100,100"}
+Un frisson vous parcourt. Vous êtes pris de spasmes répétés et sonnez de toutes vos forces. Mais personne ne vient vous arrêter. Au bout de quelques minutes, vous vous fatiguez et replongez dans le silence.
+
+Vous regardez les plis que crée la couverture, y cherchant des formes intéressantes. Vous observez le design de la chaise de bureau et jugez qu’elle pourrait être plus confortable. Vous fixez le mur blanc en vous perdant dans vos pensées.
+
+Soudain, la porte claque et vous entendez la voix étouffée de l’homme résonner à travers les murs : « mhmh. C’est clair… Ouais, moi non plus. Je te jure ! Heureusement que je suis parti plus tôt, sinon j’aurais pu finir là-dedans. Mh c’est horrible. Oui, je vais bien… Mais je vais quand même remettre mon réveil à l’heure, même si ça m’a bien servi pour cette fois… Ah bah ça s’est plutôt bien passé finalement ahahah. Il a même rigolé à un moment, je prends ça comme un bon signe… mhmh. On se voit ce soir alors… Oui. Je t’aime aussi, bisou. »
+
+L’homme entre dans la chambre. Il pose son sac et vous regarde quelques instants avant de s’asseoir devant son ordinateur et de commencer à taper sur son clavier. Puis, il ouvre un tiroir, en sort des piles et un tournevis, et s’approche de vous. Il vous ouvre le dos. Pendant un instant, tout devient noir. Vous reprenez conscience alors que l’homme vous repose sur la table de chevet avant de s’installer à nouveau devant son ordinateur.
+
+Il joue pendant plusieurs heures à un jeu que, malgré tous vos efforts, vous ne comprenez pas, mais vous appréciez tout de même les flashs de couleur à l’écran. En fin d’après-midi, il finit par se lever pour ouvrir la fenêtre. Sa chemise froissée est sortie de son pantalon, sa cravate et son veston traînent au sol. Il fredonne et sort de la chambre en faisant onduler son corps de façon étrange, comme s’il dansait sur une musique qui n’existe que dans sa tête. Il claque la porte avec un coup de hanche.
+
+De la musique rythmée filtre à travers la porte, tandis que la pièce se teinte doucement d’orange. Une fois la nuit tombée, la musique est remplacée par un film. Alors que vous essayez d’écouter le dialogue des acteurs, un choc discret résonne dans votre dos, suivi par un léger froissement.
+
+Vous vous figez pour mieux écouter.
+
+[[Ne rien faire->écoute]]
+
+
+:: Sonner dans le vide R3S2C1 {"position":"2150,925","size":"100,100"}
+Un frisson vous parcourt. Vous êtes pris de spasmes répétés et sonnez de toutes vos forces. Mais personne ne vient vous arrêter. Au bout de quelques minutes, vous vous fatiguez et replongez dans le silence.
+
+Vous regardez les plis que crée la couverture, y cherchant des formes intéressantes. Vous observez le design de la chaise de bureau et jugez qu’elle pourrait être plus confortable. Vous fixez le mur blanc en vous perdant dans vos pensées.
+
+Soudain, la porte claque et vous entendez la voix étouffée de l’homme résonner à travers les murs : « mhmh. C’est clair… Ouais, moi non plus. Je te jure ! Heureusement que je suis parti plus tôt, sinon j’aurais pu finir là-dedans. Mh c’est horrible. Oui, je vais bien… Mais je vais quand même essayer de remettre mon réveil à l’heure, même si ça m’a bien servi pour cette fois… Ah bah ça s’est plutôt bien passé finalement ahahah. Il a même rigolé à un moment, je prends ça comme un bon signe… mhmh. On se voit ce soir alors… Oui. Je t’aime aussi, bisou. »
+
+L’homme entre dans la chambre. Il pose son sac et se dirige droit vers vous. Il vous saisit, règle vos aiguilles avec un des boutons dans votre dos et vous lance un regard menaçant.
+« Tu as intérêt à arrêter de déconner maintenant. » 
+Puis, l’homme vous repose sur la table de chevet avant de s’installer à nouveau devant son ordinateur.
+
+Il joue pendant plusieurs heures à un jeu que, malgré tous vos efforts, vous ne comprenez pas, mais vous appréciez tout de même les flashs de couleur à l’écran. En fin d’après-midi, il finit par se lever pour ouvrir la fenêtre. Sa chemise froissée est sortie de son pantalon, sa cravate et son veston traînent au sol. Il fredonne et sort de la chambre en faisant onduler son corps de façon étrange, comme s’il dansait sur une musique qui n’existe que dans sa tête. Il claque la porte avec un coup de hanche.
+
+De la musique rythmée filtre à travers la porte, tandis que la pièce se teinte doucement d’orange. Une fois la nuit tombée, la musique est remplacée par un film. Alors que vous essayez d’écouter le dialogue des acteurs, un choc discret résonne dans votre dos, suivi par un léger froissement.
+
+Vous vous figez pour mieux écouter.
+
+[[Ne rien faire->écoute RSC]]
+
+
+:: Sonner dans le vide R4 {"position":"825,875","size":"100,100"}
+Vous regardez les plis que crée la couverture, y cherchant des formes intéressantes. Vous observez le design de la chaise de bureau et jugez qu’elle pourrait être plus confortable. Rapidement, l’ennui vous submerge. Vous avez déjà attendu pendant plus de 20 heures sans rien faire, il est temps de prendre les choses en main. Vous réunissez toute la rage qui est en vous. Un frisson vous parcourt. Votre corps entier se met à trembler violemment faisant sonner les cloches sur votre tête. Mais personne n’est là pour vous arrêter, alors au bout de quelques minutes, vous vous fatiguez et replongez dans le silence. Vous en venez à fixez le mur blanc en vous perdant dans vos pensées.
+
+Le temps passe, les ombres se déplacent dans la pièce et le soleil finit par se coucher, sans que l’homme ne revienne.
+
+[[Ne rien faire->Homme mort]]
+
+
+:: Sonner police sursaut [Fin] {"position":"1850,1375","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.479,#000000,1,#474646)))Une vibration vous traverse, et soudain, vous vous mettez à sonner avec une telle force que la pièce entière semble en trembler.
+
+Les trois hommes sursautent, mais c’est le policier près de la porte-fenêtre, juste à côté de vous, qui réagit le plus violemment : pris de panique, il perd l’équilibre et s’emmêle dans les rideaux. Il chute lourdement contre la table de chevet. Vous voyez sa main massive se rabattre sur vous dans un geste désespéré pour se rattraper. Vous percutez le parquet avec fracas juste avant que le policier ne vous écrase sous son poids.
+
+Votre vision se trouble avant de s’obscurcir et le froid vous emporte.
+
+
+
+:: Sonner vole R4C1 [sombre] {"position":"1250,1200","size":"100,100"}
+L’intrus, cagoulé et couvert de vêtements noirs, s’approche du bureau. Il n’a rien à faire là. La rage monte en vous alors que vous commencez à frémir. Vos tremblements s’intensifient brusquement et font hurler les cloches sur votre tête. La silhouette sursaute violemment, perd son équilibre dans la panique et tombe au sol, comme fauchée par votre alarme.
+
+Des pas précipités résonnent dans le couloir. L’homme ouvre brusquement la porte et se fige face à l’intrus. Ses yeux s’écarquillent et il se met à hurler avec vous. L’inconnu rampe vers le balcon aussi vite que possible, tandis que l’homme sort de la chambre en courant. La silhouette noire est déjà en train de sortir lorsque l’homme revient, téléphone à la main, pointé sur elle.
+Il s’élance vers le balcon, à la poursuite du fuyard, mais ne fait qu’y hurler une insulte. Désemparé, il revient à l’intérieur et referme les fenêtres d’un geste sec.
+
+Il se tourne vers vous et vous arrête délicatement. Son regard reste un instant posé sur vous, avant qu’il ne vérifie que rien de manque dans la chambre. Il pousse un soupir de soulagement, revient vers vous et vous prend dans ses mains. Il semble réfléchir intensément, alors qu’il vous observe, puis vous repose et vous souffle :
+
+« merci. »
+
+Il sort de la chambre en refermant la porte. Depuis une autre pièce, vous entendez l’écho de sa voix saccadée. Vous saisissez des bribes de conversation :
+
+« Allô?... introduit chez moi. Oui. La fenêtre était ouverte mais j’étais là… j’ai pris une vidéo… cagoule et des gants… Non… Rue du Chêne… premier étage. D’accord… Merci.»
+
+Peu après qu’il s’est tu, le bruit régulier de l’eau qui coule raisonne dans le logement. L’homme finit par réapparaître, une serviette nouée autour de la taille. Il ouvre son armoire, enfile son pyjama et vérifie minutieusement que les fenêtres sont bien fermées avant de tirer les rideaux. Puis il se glisse dans son lit, se tourne vers vous et reste ainsi à vous fixer. Son regard vous met un peu mal à l’aise, il ne vous regarde pas autant d’habitude. Finalement, il se frotte les yeux, éteint la lumière et essaye de dormir.
+
+Vous en profitez pour essayer, vous aussi, de vous remettre de tout ce qui vient de se passer.
+
+
+[[Ne rien faire->Téléphone silencieux]]
+
+
+:: Sonner vole RSC [sombre] {"position":"2300,1200","size":"100,100"}
+L’intrus, cagoulé et couvert de vêtements noirs, s’approche du bureau. Il n’a rien à faire là. La rage monte en vous alors que vous commencez à frémir. Vos tremblements s’intensifient brusquement et font hurler les cloches sur votre tête. La silhouette sursaute violemment, perd son équilibre dans la panique et tombe au sol, comme fauchée par votre alarme.
+
+Des pas précipités résonnent dans le couloir. L’homme ouvre brusquement la porte et se fige face à l’intrus. Ses yeux s’écarquillent et il se met à hurler avec vous. L’inconnu rampe vers le balcon aussi vite que possible, tandis que l’homme sort de la chambre en courant. La silhouette noire est déjà en train de sortir lorsque l’homme revient, téléphone à la main, pointé sur elle.
+Il s’élance vers le balcon, à la poursuite du fuyard, mais ne fait qu’y hurler une insulte. Désemparé, il revient à l’intérieur et referme les fenêtres d’un geste sec.
+
+Il se tourne vers vous et vous arrête. Son regard reste un instant posé sur vous, avant qu’il ne vérifie que rien de manque dans la chambre. Il pousse un soupir de soulagement, revient vers vous et vous prend dans ses mains. Il semble réfléchir intensément alors qu’il vous observe, puis il secoue la tête et vous repose.
+
+Il sort de la chambre en refermant la porte. Depuis une autre pièce, vous entendez l’écho de sa voix saccadée. Vous saisissez des bribes de conversation :
+
+« Allô?... introduit chez moi. Oui. La fenêtre était ouverte mais j’étais là… j’ai pris une vidéo… cagoule et des gants… Non… Rue du Chêne… premier étage. D’accord… Merci.»
+
+Peu après qu’il s’est tu, le bruit régulier de l’eau qui coule raisonne dans le logement. L’homme finit par réapparaître, une serviette nouée autour de la taille. Il ouvre son armoire, enfile son pyjama et vérifie minutieusement que les fenêtres sont bien fermées avant de tirer les rideaux. Puis il se glisse dans son lit, se tourne vers vous et reste ainsi à vous fixer. Son regard vous met un peu mal à l’aise, il ne vous regarde pas autant d’habitude. Finalement, il se frotte les yeux, éteint la lumière et essaye de dormir.
+
+Vous en profitez pour essayer, vous aussi, de vous remettre de tout ce qui vient de se passer.
+
+[[Ne rien faire->Téléphone silencieux RSC]]
+
+
+:: Téléphone silencieux {"position":"1100,1400","size":"100,100"}
+Un rayon de soleil perce à travers l’interstice laissé entre les rideaux. L’homme dors profondément, le souffle lent et régulier. 
+
+Soudain, quelque chose se met à vibrer sur le bureau. Vous finissez par repérer le téléphone, posé à côté de l’ordinateur, dont l’écran s’est allumé et qui n’arrête pas de trembler.
+
+
+[[Ne rien faire->Rate job]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Changer l'heure</span>->Panique rate job]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Sonner</span>->Réveiller pour job]]
+
+
+:: Téléphone silencieux RSC {"position":"2400,1400","size":"100,100"}
+Un rayon de soleil perce à travers l’interstice laissé entre les rideaux. L’homme dors profondément, le souffle lent et régulier. 
+
+Soudain, quelque chose se met à vibrer sur le bureau. Vous finissez par repérer le téléphone, posé à côté de l’ordinateur, dont l’écran s’est allumé et qui n’arrête pas de trembler.
+
+
+[[Ne rien faire->Rate job]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Changer l'heure</span>->Panique rate job]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Sonner</span>->Réveiller pour job RSC]]
+
+
+:: Un peu déçu [Fin] {"position":"1100,1800","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#7E7486,0.0617,#7E7486,0.3407,#000000,0.5951,#474646,1,#474646)))Mais vous ne faîtes rien. Il a l’air tellement excité, il risquerait de faire une crise cardiaque si vous lui répondez maintenant.
+
+Au bout d’une minute, l’espoir dans les yeux de l’homme se dissipe. Il secoue la tête et vous repose. 
+« Qu’est-ce que j’ai imaginé ?... Merci quand même, fidèle réveil. » 
+Puis il ouvre les rideaux et sort de la chambre.
+
+Les jours, les semaines et les années passent. Vous apprenez à connaître le rythme de vie de l’homme qui vous conserve soigneusement sur sa table de chevet. Il n’oubliera pas ce que vous avez fait pour lui et prend soin de vous jusqu’à sa mort. Lorsque sa famille vient ranger ses affaires, sa fille vous dépose dans une boîte et ferme le couvercle, vous plongeant dans le noir. Vous y restez longtemps, vos piles s’épuisent gentiment et, finalement, vous partez en paix.
+Vous rejoignez votre propriétaire après toutes ces années de bons et loyaux services.
+
+
+
+:: Vente C2S2 [Fin] {"position":"3425,800","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#4B6171,0.4914,#000000,1,#677179)))Il a vraiment l’air d’être effrayé par vous. Autant en profiter un peu et s’amuser. 
+Alors que ses yeux sont rivés sur vous, vous vous agitez soudainement pour faire sonner vos cloches. Le pauvre homme sursaute violemment en lâchant un cri. Il recule à toute vitesse, se cogne à une chaise, et s’enfuit en claquant la porte de sa chambre.
+
+Le lendemain, lorsqu’il revient dans la cuisine, il garde ses distances et vous observe du coin de l’œil pendant tout son petit-déjeuner. Puis il sort, et vous ne le revoyez plus avant le soir. Lorsqu’il revient, il tient un rouleau de papier bulle sous le bras, qu’il dépose sur la table. Il fouille ensuite dans une armoire, en sort un carton familier, et le pose à côté. Il finit par s’approcher de vous, vous braque son téléphone dessus et prend plusieurs photos de différents angles de vue. Puis, avec des gestes rapides, comme si votre surface était brulante, il vous enrobe dans le plastique. À travers les couches de papier bulle, votre vision se brouille mais vous sentez qu’il vous dépose dans le carton, vous en reconnaissez l’odeur. Finalement l’homme referme la boîte, vous plongeant dans le noir.
+
+Vous perdez toute notion du temps réel. Vous sentez des secousses et entendez des bruits étouffés mais vous êtes incapable de savoir depuis combien de temps vous êtes dans cette boîte.
+
+Une faible lumière bleutée vous enrobe lorsqu’une silhouette floue ouvre enfin à nouveau le carton. Une fois le papier bulle retiré, vous vous retrouvez face à un vieil homme aux cheveux longs dont la silhouette se découpe sur fond de vitrines éclairées, remplies de poupées, de masques et de bibelots étranges. Il se retourne, ouvre une des vitrines et vous pose délicatement entre une boîte sertie de dents et une poupée au visage écaillé. Il referme la vitrine à clé et s’en va, vous laissant dans cette pièce froide, sans fenêtres. Visiblement, vous êtes condamné à rester ici pour un bon moment. Une étagère, également remplie de bric-à-brac, vous fait face. 
+Un frisson vous parcourt. 
+Vous auriez juré voir la tête d’une des statues bouger dans la pénombre.
+
+
+
+:: Vente C3S1 [Fin] {"position":"3300,800","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#4B6171,0.4914,#000000,1,#677179)))Il a vraiment l’air d’être effrayé par vous. Autant en profiter un peu et s’amuser. 
+Alors que ses yeux sont rivés sur vous, vous faites tournez vos aiguilles sur leur cadran. Le visage du pauvre homme se décompose. Il recule, se cogne à une chaise, et s’enfuit en claquant la porte de sa chambre.
+
+Le lendemain, lorsqu’il revient dans la cuisine, il garde ses distances et vous observe du coin de l’œil pendant tout son petit-déjeuner. Puis il sort, et vous ne le revoyez plus avant le soir. Lorsqu’il revient, il tient un rouleau de papier bulle sous le bras, qu’il dépose sur la table. Il fouille ensuite dans une armoire, en sort un carton familier, et le pose à côté. Il finit par s’approcher de vous, vous braque son téléphone dessus et prend plusieurs photos de différents angles de vue. Puis, avec des gestes rapides, comme si votre surface était brulante, il vous enrobe dans le plastique. À travers les couches de papier bulle, votre vision se brouille mais vous sentez qu’il vous dépose dans le carton, vous en reconnaissez l’odeur. Finalement l’homme referme la boîte, vous plongeant dans le noir.
+
+Vous perdez toute notion du temps réel. Vous sentez des secousses et entendez des bruits étouffés mais vous êtes incapable de savoir depuis combien de temps vous êtes dans cette boîte.
+
+Une faible lumière bleutée vous enrobe lorsqu’une silhouette floue ouvre enfin à nouveau le carton. Une fois le papier bulle retiré, vous vous retrouvez face à un vieil homme aux cheveux longs dont la silhouette se découpe sur fond de vitrines éclairées, remplies de poupées, de masques et de bibelots étranges. Il se retourne, ouvre une des vitrines et vous pose délicatement entre une boîte sertie de dents et une poupée au visage écaillé. Il referme la vitrine à clé et s’en va, vous laissant dans cette pièce froide, sans fenêtres. Visiblement, vous êtes condamné à rester ici pour un bon moment. Une étagère, également remplie de bric-à-brac, vous fait face. 
+Un frisson vous parcourt. 
+Vous auriez juré voir la tête d’une des statues bouger dans la pénombre.
+
+
+
+:: Vente R2C2S1 [Fin] {"position":"3175,800","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#4B6171,0.5086,#000000,1,#677179)))Il reste là à vous observer, comme s’il s’attendait à ce que lui sautiez dessus ou à ce que vous vous mettiez à parler. Voyant qu’il ne se passe rien, il se résigne à s’éclipser dans sa chambre après vous avoir lancé un dernier regard méfiant.
+
+Le lendemain, lorsqu’il revient dans la cuisine, il garde ses distances et vous observe du coin de l’œil pendant tout son petit-déjeuner. Puis il sort, et vous ne le revoyez plus avant le soir. Lorsqu’il revient, il tient un rouleau de papier bulle sous le bras, qu’il dépose sur la table. Il fouille ensuite dans une armoire, en sort un carton familier, et le pose à côté. Il finit par s’approcher de vous, vous braque son téléphone dessus et prend plusieurs photos de différents angles de vue. Puis, avec des gestes rapides, comme si votre surface était brulante, il vous enrobe dans le plastique. À travers les couches de papier bulle, votre vision se brouille mais vous sentez qu’il vous dépose dans le carton, vous en reconnaissez l’odeur. Finalement l’homme referme la boîte, vous plongeant dans le noir.
+
+Vous perdez toute notion du temps réel. Vous sentez des secousses et entendez des bruits étouffés mais vous êtes incapable de savoir depuis combien de temps vous êtes dans cette boîte.
+
+Une faible lumière bleutée vous enrobe lorsqu’une silhouette floue ouvre enfin à nouveau le carton. Une fois le papier bulle retiré, vous vous retrouvez face à un vieil homme aux cheveux longs dont la silhouette se découpe sur fond de vitrines éclairées, remplies de poupées, de masques et de bibelots étranges. Il se retourne, ouvre une des vitrines et vous pose délicatement entre une boîte sertie de dents et une poupée au visage écaillé. Il referme la vitrine à clé et s’en va, vous laissant dans cette pièce froide, sans fenêtres. Visiblement, vous êtes condamné à rester ici pour un bon moment. Une étagère, également remplie de bric-à-brac, vous fait face. 
+Un frisson vous parcourt. 
+Vous auriez juré voir la tête d’une des statues bouger dans la pénombre.
+
+
+
+:: police R4C2 [Fin] {"position":"1975,1375","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.1432,#000000,1,#474646)))Après avoir inspecté toute la pièce tout en posant de nombreuses questions à l’homme, les policiers se rapprochent de lui.
+« Monsieur Wecker, nous sommes désolés, mais nous n’avons rien relevé d’exploitable. Le cambrioleur semble avoir pris ses précautions… euh accepteriez-vous que nous nous asseyions pour parler de la suite ? »
+L’homme hoche la tête et les accompagne hors de la chambre, refermant la porte derrière eux.
+
+Lorsqu’il revient dans la chambre, il va droit vers les fenêtres pour vérifier qu’elles sont bien verrouillées. Il vous jette un regard rapide au passage. Avant d’ouvrir l’armoire, il marque un temps d’arrêt et se retourne à nouveau vers vous. Il fixe vos aiguilles et pousse un long soupir en vous regardant d’un air déçu. Il vous empoigne et sort de la chambre pour aller dans la cuisine. Il ouvre un placard et en sort un carton familier. 
+Après un dernier coup d'œil, il vous dépose dans la boîte et la referme, vous abandonnant dans le noir.
+
+
+
+:: police R5C1 {"position":"1600,1375","size":"100,100"}
+Après avoir inspecté toute la pièce tout en posant de nombreuses questions à l’homme, les policiers se rapprochent de lui.
+« Monsieur Wecker, nous sommes désolés, mais nous n’avons rien relevé d’exploitable. Le cambrioleur semble avoir pris ses précautions… euh accepteriez-vous que nous nous asseyions pour parler de la suite ? »
+L’homme hoche la tête et les accompagne hors de la chambre, refermant la porte derrière eux.
+
+Lorsqu’il revient dans la chambre, il va droit vers les fenêtres pour vérifier qu’elles sont bien verrouillées. Il se met en pyjama, s’allonge sur le lit mais n’éteint pas la lumière. Il reste immobile, dos à la porte, essayant de fermer les yeux. Mais la lumière du jour arrive avant qu’il ne parvienne à dormir.
+
+Les jours suivants, Wecker semble éviter la chambre, qui reste en désordre. Vous ne le voyez presque pas. Mais vous commencez à avoir l’habitude de la solitude maintenant. Une semaine après l’incident, il revient dans la chambre avec des cartons, suivi par une petite dame aux cheveux grisonnants. Tous deux emballent tous les objets de la chambre. Quand vient votre tour, elle vous prend avec soin et vous pose dans un carton déjà à moitié rempli. Elle vous recouvre peu à peu de bibelots puis vous plonge dans le noir en refermant la boîte.
+
+Après vous être fait ballotter pendant des heures, vous voyez enfin de nouveau la lumière du jour lorsque l’homme vous ressort du carton pour vous poser sur une table de chevet en bois foncé, à côté d’un autre réveil argenté très élégant. Vous ne reconnaissez rien.
+
+
+[[Ne rien faire->Oublié]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Changer l'heure->Abandonné C]]
+
+[[<span style="color: #474646; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#474646';">Sonner->Abandonné S]]
+
+
+:: sortir [clair] {"position":"2600,125","size":"100,100"}
+Soudain, une vive lumière vous éblouit. 
+La boîte en carton dans laquelle vous vous trouvez a été déchirée. Une main agrippe le sachet plastique qui vous abrite et vous soulève hors du carton sombre.
+
+Vous vous retrouvez face à face avec un homme qui vous extrait du sachet et commence à vous examiner. Les reflets sur ses lunettes mettent en évidence une trace de doigt sur un des verres. Il vous retourne et se met à tourner les boutons dans votre dos. Le carton d'où vous venez est posé sur un bureau blanc juste en dessous de vous. 
+Il est plutôt bien rangé, un goblet rempli de stylos et un ordinateur se trouve dans un coin du bureau. Un tableau émanté accroché au mur le surplombe. Il est rempli de notes, de croquis et de photos.
+
+L'homme vous retourne pour vérifier que vous êtes à la bonne heure. 
+
+
+[[Ne rien faire->Ne rien faire posé]]
+(align:"==>")+(box:"=XXXXX====")[[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Changer l'heure</span>->Changer l'heure]]]
+(align:"<==")+(box:"==XXXXX===")[[[<span style="color: #677179; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='#677179';">Sonner</span>->Sonner]]]
+
+
+:: sursaut mortel [Fin] {"position":"1700,1800","size":"100,100"}
+(enchant:?page,(bg:(gradient: 0, 0,#000000,0.4,#000000,1,#474646)))Vous tremblez brusquement et vous vous mettez à sonner dans ses mains.
+L’homme écarquille les yeux, au point où ils auraient pu sortir de leurs orbites. Dans son sursaut, ses doigts se desserrent instinctivement et vous lui échappez.
+
+Vous chutez dans le vide, percutez le bord de la table de chevet avant de vous écraser contre le sol avec fracas. 
+
+Votre vision se trouble avant de s’obscurcir et le froid vous emporte.
+
+
+
+
+:: écoute [sombre] {"position":"1475,1050","size":"100,100"}
+La fenêtre grince doucement, accompagnée par un courant d’air. À l’affut, vous entendez la poignée de la porte-fenêtre tourner, suivie d’un clic sec. Un léger grincement vous glace les rouages. Du coin de l’œil, vous apercevez une silhouette qui se glisse dans la chambre.
+
+
+[[Ne rien faire->Ne rien faire vole R4C1]]
+
+[[<span style="color: black; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='black';">Changer l'heure</span>->Changer l'heure vole R4C1]]
+
+[[<span style="color: black; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='black';">Sonner</span>->Sonner vole R4C1]]
+
+
+:: écoute RSC [sombre] {"position":"2150,1075","size":"100,100"}
+La fenêtre grince doucement, accompagnée par un courant d’air. À l’affut, vous entendez la poignée de la porte-fenêtre tourner, suivie d’un clic sec. Un léger grincement vous glace les rouages. Du coin de l’œil, vous apercevez une silhouette qui se glisse dans la chambre.
+
+
+[[Ne rien faire->Ne rien faire vole R4C1]]
+
+[[<span style="color: black; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='black';">Changer l'heure</span>->Changer l'heure vole R4C1]]
+
+[[<span style="color: black; cursor: pointer;"onmouseover="this.style.color='#9ACD32';" onmouseout="this.style.color='black';">Sonner</span>->Sonner vole RSC]]
+
+
+:: StoryStylesheet [stylesheet]
+
+tw-story {
+  background-color: #474646;
+}
+
+tw-story[tags~="sombre"] {
+  background-color: black;
+}
+
+tw-story[tags~="clair"] {
+  background-color: #677179;
+}
+
+tw-link {
+  color: #FFE4C4;
+}
+
+tw-link:hover {
+  color: #9ACD32;
+}
+
