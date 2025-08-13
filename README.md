@@ -1,4 +1,4 @@
-# Reveil
+# Réveil
 
 ## Description
 
@@ -9,4 +9,4 @@ Ce projet a été développé dans le cadre du cours de Fiction interactive disp
 
 ## Lancement
 
-Télécharger le document .html et l'ouvrir avec un browser.
+Télécharger le fichier .html et l'ouvrir avec un browser ou télécharger le fichier .twee et l'importer dans Twine https://twinery.org.
